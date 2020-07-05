@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [com.google.android.material:material:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/677a9847875789aab46f3c29ab091161/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/80e93a7dbbbc92d5ba06f197fc1f3f62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/663e88639a0715fd4ac3b64feaa3aca6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/12b8f96d9d4fe79ee2f5b05faf912e2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/e095d1f93d1c73ac03b6c2c755ce9032/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1fe350b22ee5ce04e5c4ff4f69438ff4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/af3689ee5fa8c428d549be32ab17d5a5/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/d7c59dbac893ae2e07eaef495b22b7b8/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/9f645ebfee68cc485401d0b6d02dc69e/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/afac25ca10271ba1e6a99abbc5d45276/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a5ff6e9a96a40f29a17c41c22c30bdbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/ecbc8148f25188e6bf897885a37e1673/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/991abd30120f83247aa517ebba5d42e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/564bc2d32fd993158501fd239a1de625/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e73266e0f1ecff4c5f63edda227d8af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3d5281dd751a66ecbd3fd45ad584160c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/1ddc9f1695ad825dc5a32101ff77157e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7d45b8f870418aac09443c683f320f22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0ee7287deec3fdb3177df7359ed4c71f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49f0b537e8c25202c5cb0a3e7a04c8c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/c6e7737803e440f3db1decc2854f0843/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57fe2360365a45c60c3b3cb285b02c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/65a697a45b714d83ceed3b1b030f8dee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4f7e018f0cede7b4204e50fab8da73de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e0442035fcb2d66f81b5bade7521a320/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/58b23b15e208ce87304c3c9b799b46a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/2109bf1fff2d1d2a27b02f04f7254449/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/312b15c94f04e17e230392d3776b4eab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ea3bc932a0114aa185d6eb272291dbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7e0ce4ae1e4792de11e951a187f8757d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cb456a55849c0de773a9e05f4cf7595/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/244f27abfb07d654a42de2e070e59806/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:2:5-58
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+MERGED from [com.google.android.material:material:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/677a9847875789aab46f3c29ab091161/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/677a9847875789aab46f3c29ab091161/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/80e93a7dbbbc92d5ba06f197fc1f3f62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/80e93a7dbbbc92d5ba06f197fc1f3f62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/663e88639a0715fd4ac3b64feaa3aca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/663e88639a0715fd4ac3b64feaa3aca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/12b8f96d9d4fe79ee2f5b05faf912e2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/12b8f96d9d4fe79ee2f5b05faf912e2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/e095d1f93d1c73ac03b6c2c755ce9032/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/e095d1f93d1c73ac03b6c2c755ce9032/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1fe350b22ee5ce04e5c4ff4f69438ff4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1fe350b22ee5ce04e5c4ff4f69438ff4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/af3689ee5fa8c428d549be32ab17d5a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/af3689ee5fa8c428d549be32ab17d5a5/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/d7c59dbac893ae2e07eaef495b22b7b8/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/d7c59dbac893ae2e07eaef495b22b7b8/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/9f645ebfee68cc485401d0b6d02dc69e/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/9f645ebfee68cc485401d0b6d02dc69e/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/afac25ca10271ba1e6a99abbc5d45276/AndroidManifest.xml:4:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-support-0.0.0-nightly.aar/afac25ca10271ba1e6a99abbc5d45276/AndroidManifest.xml:4:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a5ff6e9a96a40f29a17c41c22c30bdbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a5ff6e9a96a40f29a17c41c22c30bdbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/ecbc8148f25188e6bf897885a37e1673/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/ecbc8148f25188e6bf897885a37e1673/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/991abd30120f83247aa517ebba5d42e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/991abd30120f83247aa517ebba5d42e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/564bc2d32fd993158501fd239a1de625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/564bc2d32fd993158501fd239a1de625/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e73266e0f1ecff4c5f63edda227d8af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/6e73266e0f1ecff4c5f63edda227d8af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3d5281dd751a66ecbd3fd45ad584160c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3d5281dd751a66ecbd3fd45ad584160c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/1ddc9f1695ad825dc5a32101ff77157e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/1ddc9f1695ad825dc5a32101ff77157e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7d45b8f870418aac09443c683f320f22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/7d45b8f870418aac09443c683f320f22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0ee7287deec3fdb3177df7359ed4c71f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/0ee7287deec3fdb3177df7359ed4c71f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49f0b537e8c25202c5cb0a3e7a04c8c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49f0b537e8c25202c5cb0a3e7a04c8c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/c6e7737803e440f3db1decc2854f0843/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/c6e7737803e440f3db1decc2854f0843/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57fe2360365a45c60c3b3cb285b02c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f57fe2360365a45c60c3b3cb285b02c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/65a697a45b714d83ceed3b1b030f8dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/65a697a45b714d83ceed3b1b030f8dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4f7e018f0cede7b4204e50fab8da73de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/4f7e018f0cede7b4204e50fab8da73de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e0442035fcb2d66f81b5bade7521a320/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e0442035fcb2d66f81b5bade7521a320/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/58b23b15e208ce87304c3c9b799b46a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/58b23b15e208ce87304c3c9b799b46a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/2109bf1fff2d1d2a27b02f04f7254449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/2109bf1fff2d1d2a27b02f04f7254449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/312b15c94f04e17e230392d3776b4eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/312b15c94f04e17e230392d3776b4eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ea3bc932a0114aa185d6eb272291dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/9ea3bc932a0114aa185d6eb272291dbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7e0ce4ae1e4792de11e951a187f8757d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7e0ce4ae1e4792de11e951a187f8757d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cb456a55849c0de773a9e05f4cf7595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cb456a55849c0de773a9e05f4cf7595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/244f27abfb07d654a42de2e070e59806/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/244f27abfb07d654a42de2e070e59806/AndroidManifest.xml:20:5-44
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+	android:targetSdkVersion
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+		MERGED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:4:5-17
+		INJECTED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:9:19-67
+application
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:11:5-27:19
+MERGED from [com.google.android.material:material:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/677a9847875789aab46f3c29ab091161/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/677a9847875789aab46f3c29ab091161/AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/d7c59dbac893ae2e07eaef495b22b7b8/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/d7c59dbac893ae2e07eaef495b22b7b8/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/9f645ebfee68cc485401d0b6d02dc69e/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-gpu-0.0.0-nightly.aar/9f645ebfee68cc485401d0b6d02dc69e/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/c6e7737803e440f3db1decc2854f0843/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/c6e7737803e440f3db1decc2854f0843/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/manoj-adk/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0482726e69d4c894f3ca9d5fc639eaf3/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:17:9-60
+activity#org.tensorflow.lite.examples.classification.ClassifierActivity
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:19:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/src/main/AndroidManifest.xml:24:27-74

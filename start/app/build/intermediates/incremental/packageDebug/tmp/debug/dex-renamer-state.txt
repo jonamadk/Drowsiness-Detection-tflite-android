@@ -1,0 +1,7 @@
+#Sat Jul 04 22:47:30 NPT 2020
+base.0=/home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/manoj-adk/Documents/examples/lite/codelabs/flower_classification/android/start/app/build/intermediates/transforms/dexMerger/debug/1
